@@ -1,0 +1,9 @@
+name,proximal,distal,cm_ratio_clauser,cm_ratio,seg_weight,seg_weight_clauser,sides
+hand,wrist,finger,0.18,0.506,0.006,0.0065,2
+forearm,elbow,wrist,0.3896,0.43,0.016,0.0161,2
+upper_arm,sholder,elbow,0.513,0.436,0.028,0.0263,2
+foot,ankle,toe,0.4485,0.5,0.0145,0.0147,2
+leg,knee,ankle,0.3705,0.433,0.0465,0.0435,2
+thigh,hip,knee,0.3719,0.433,0.1,0.1027,2
+trunk,neck,hip,0.3803,0.495,0.497,0.507,1
+head,neck,forhead,0.4642,1,0.081,0.0728,1
